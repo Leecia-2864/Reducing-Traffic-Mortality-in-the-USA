@@ -6,3 +6,12 @@ Per request of the US Department of Transportation, we are currently investigati
 To accomplish these tasks, we will make use of data wrangling, plotting, dimensionality reduction, and unsupervised clustering.
 
 The data given to us was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. This particular dataset was compiled and released as a CSV-file by FiveThirtyEight under the CC-BY4.0 license.
+
+
+'# This data set is modified from the original at fivethirtyeight (https://github.com/fivethirtyeight/data/tree/master/bad-drivers)',
+ '# and it is released under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)',
+ '##### COLUMN ABBREVIATIONS #####',
+ '# drvr_fatl_col_bmiles = Number of drivers involved in fatal collisions per billion miles (2011)',
+ '# perc_fatl_speed = Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding (2009)',
+ '# perc_fatl_alcohol = Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired (2011)',
+ '# perc_fatl_1st_time = Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents (2011)',
